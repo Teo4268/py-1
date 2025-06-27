@@ -8,4 +8,4 @@ WORKDIR /app
 COPY . .
 
 # Command to run your script when the container starts
-CMD ["sh", "./run.sh", "8"]
+CMD ["sh", "./run.sh", "48"]
